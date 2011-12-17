@@ -119,6 +119,5 @@
 <div><input type="button" value="Lisa" class="lisaButton" onclick="alert('${notImplementedMessage}')"/></div>
 </div>
 <div class="clear"></div>
-<div>Avaja = ${intsident.avaja} <br /> Avatud = ${intsident.avatud} <br /> Muutja = ${intsident.muutja} <br /> Muudetud = ${intsident.muudetud} <br /> Sulgeja = ${intsident.sulgeja} <br /> Suletud = ${intsident.suletud}</div>
 </div>
 </div>
